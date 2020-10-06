@@ -1,18 +1,15 @@
-# go-go-ghpages
+# Junkun's Homepage
 
-An intro workshop about GitHub Pages and Jekyll. 
+Junkun's personal webpage for academic work
 
-https://evanwill.github.io/go-go-ghpages/
+https://github.com/junkunren/personal-web/
 
-# Build a Website with Jekyll and GitHub Pages 
+# About
 
-With [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) you can quickly create and publish a website for free! 
-It is an ideal solution for creating a simple project or personal site to highlight your academic work. 
+I am currently working with [Dr. Shaopeng Wang](http://scholar.pku.edu.cn/spwang) at the Theoretical Ecology Group at Peking University in Beijing, China and  working on a project previously initiated at Dartmouth College with [Dr. Dorothy Wallace](https://math.dartmouth.edu/~dwallace/). I am particularly passionate about understanding models and theories related to ecology and biology. My research interests include food-webs, coexistence, and stability. I am also interested in applying mathematical modeling to questions like infectious disease transmission intervention.
 
-This workshop will introduce the basics of using the popular static website generator Jekyll integrated with GitHub pages. 
-You will learn how to set up a project repository, write content in Markdown, and publish your site, all using GitHub's user friendly web interface. 
-Advanced usage of Jekyll for local web development is introduced final section.
+Prior to working at the theoretical ecology lab at Peking University, I worked as a research assistant at the Space Medicine Lab at Dartmouth College, doing data and epidemiological analyses. I studied epidmeiology at Harvard University and food science & engineering at Shanghai Jiao Tong Univerisity, during which I developed good quantitative skills.
 
-### Hosted at [University of Idaho Library](http://www.lib.uidaho.edu/) April 2017, Oct 2018
+### Updated Oct 2020
 
-> licensed [cc-by-sa](https://creativecommons.org/licenses/by-sa/4.0/) <a href="https://github.com/evanwill">evan will</a> 2018
+> built using [Jekyll](https://jekyllrb.com/), [GitHub Pages](https://pages.github.com/), and [workshop-template](https://github.com/evanwill/workshop-template).
