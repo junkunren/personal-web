@@ -10,6 +10,6 @@ I am currently working with [Dr. Shaopeng Wang](http://scholar.pku.edu.cn/spwang
 
 Prior to working at the theoretical ecology lab at Peking University, I worked as a research assistant at the Space Medicine Lab at Dartmouth College, doing data and epidemiological analyses. I studied epidmeiology at Harvard University and food science & engineering at Shanghai Jiao Tong Univerisity, during which I developed good quantitative skills.
 
-### Updated Oct 2020
+> Updated Oct 2020
 
 > built using [Jekyll](https://jekyllrb.com/), [GitHub Pages](https://pages.github.com/), and [workshop-template](https://github.com/evanwill/workshop-template).
