@@ -8,9 +8,8 @@ title: Home
 
 # Junkun's Homepage
 
-Junkun's personal webpage for academic work
+Junkun's personal [webpage](https://junkunren.github.io/personal-web/) for academic work
 
-https://junkunren.github.io/personal-web/
 
 # About
 
