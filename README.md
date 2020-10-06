@@ -2,7 +2,7 @@
 
 Junkun's personal webpage for academic work
 
-https://github.com/junkunren/personal-web/
+https://junkunren.github.io/personal-web/
 
 # About
 
