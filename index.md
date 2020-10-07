@@ -3,7 +3,7 @@ title: Home
 ---
 
 <div> 
-    <img src="{{ '/images/graduation shirt picture copy.jpg' | absolute_url }}" alt="graduation shirt pic" style="width:55%;" >
+    <img src="{{ 'images/graduation shirt picture copy.jpg' | absolute_url }}" alt="graduation shirt pic" style="width:55%;" >
 </div>
 
 # Junkun's Homepage
