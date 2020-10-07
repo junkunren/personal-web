@@ -4,9 +4,6 @@ Junkun's personal webpage for academic work
 
 https://junkunren.github.io/personal-web/
 
-<div> 
-    <img src="{{ '/images/graduation shirt picture copy.jpg' | absolute_url }}" alt="graduation shirt pic" style="width:55%;" >
-</div>
 
 # About
 
